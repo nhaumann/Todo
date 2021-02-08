@@ -12,3 +12,6 @@ https://nivo.rocks/
 
 # DataTables
 https://adazzle.github.io/react-data-grid/docs/examples/cell-formatting
+
+# Offline
+https://dexie.org/docs/Syncable/Dexie.Syncable.js.html
